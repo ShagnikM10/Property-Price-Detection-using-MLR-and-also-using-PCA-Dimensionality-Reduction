@@ -1,0 +1,2 @@
+# Property-Price-Detection-using-MLR-and-also-using-PCA-Dimensionality-Reduction
+Predicting the price of a property taking as many as 81 features into account such as Carpet Area, Locality, Building Age etc using (OLS) technique on (MLR) Model. Made 4 models which included one with and one without ‘Log transformation of Target variable’, one with VIF and the last one having New Features( Feature Engineering).
